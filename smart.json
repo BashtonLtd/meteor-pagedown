@@ -3,6 +3,6 @@
   "description": "Meteor smart package of pagedown.",
   "homepage": "http://github.com/BashtonLtd/meteor-pagedown",
   "author": "David Watson",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "git": "https://github.com/BashtonLtd/meteor-pagedown.git"
 }
